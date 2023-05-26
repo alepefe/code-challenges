@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "commonjs",
+      "experimentalDecorators": true,
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "rootDir": ".",
+      "outDir": "dist"
+    },
+    "$schema": "https://json.schemastore.org/tsconfig",
+    "display": "Recommended"
+}

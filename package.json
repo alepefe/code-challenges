@@ -1,0 +1,23 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.59.7",
+    "eslint": "^8.41.0",
+    "eslint-config-standard-with-typescript": "^34.0.1",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^16.0.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "typescript": "^4.9.4",
+    "vitest": "^0.29.2"
+  },
+  "scripts": {
+    "test": "vitest --reporter verbose"
+  },
+  "dependencies": {
+    "fast-sha256": "^1.3.0",
+    "uuidv4": "^6.2.13"
+  }
+}
