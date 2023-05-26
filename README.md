@@ -1,1 +1,1 @@
-## Some code challenges completed with typescript
+## Some code challenges completed in typescript
